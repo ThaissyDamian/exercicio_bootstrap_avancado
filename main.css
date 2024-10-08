@@ -1,0 +1,34 @@
+header {
+    padding: 16px 0 ;
+    background-color: red;
+    color: #fff;
+}
+
+img {
+    width: 100%;
+    height: auto;
+            
+}
+
+.nav-link:hover {
+    color: #ffebcd;
+}
+
+.navbar-toggler {
+    border-color:#fff
+}
+
+section {
+    padding-top: 120px;
+}
+
+#siga img {
+    max-width: 50px; 
+    margin: 5px; 
+}
+
+footer {
+    background-color: red;
+    color: #fff;
+    padding: 16px 0;
+}
